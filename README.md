@@ -6,4 +6,4 @@ Brian W. Dew, @bd_econ
 
 ------
 
-Various blog posts written by Brian Dew for the [bd econ bog](https://briandew.wordpress.com/) or for other organizations or publications.
+Various blog posts written by Brian Dew for the [bd econ blog](https://briandew.wordpress.com/) or for other organizations or publications.
