@@ -1,6 +1,6 @@
 ### bd econ blog posts
 
-January 26, 2019
+September 19, 2019
 
 Brian W. Dew, @bd_econ
 
